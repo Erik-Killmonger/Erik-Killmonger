@@ -21,7 +21,7 @@
 &emsp;
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;My Expertise
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
