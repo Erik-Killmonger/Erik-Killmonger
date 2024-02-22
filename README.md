@@ -47,9 +47,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/rahul2002m">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fasikablack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fasikablack&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasikablack&theme=tokyonight" alt="rahul2002m" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasikablack&theme=tokyonight" alt="fasikablack" /> </p>
