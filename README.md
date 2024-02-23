@@ -1,7 +1,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Fasika</h1>
 <h3 align="center">System Developer || Software Engineer</h3>
-<h3>I'm a Software Engineer passionate about crafting efficient and scalable solutions. Expert in various programming languages and technologies.Am driven in learning and collaborating on innovative projects.Let's build the future together.</h3>
+<h3>I'm a Software Engineer passionate about crafting efficient and scalable solutions. Expert in various programming languages and technologies.Am driven in learning and collaborating on innovative projects.                    Let's build the future together.</h3>
 <p><img align="right" height="430em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=fasikablack&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
