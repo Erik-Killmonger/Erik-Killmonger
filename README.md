@@ -16,9 +16,13 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
 </p>
-
+<style>
+  .contact-links {
+    text-align: center;
+  }
+</style>
 ### ✉️ &nbsp; Connect with me
-<div align="center" style="display:block;"> 
+<div align="center" class="contact-links"> 
   <a href="mailto:fasikazelalem12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -26,7 +30,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/fasikablack" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
