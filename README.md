@@ -28,9 +28,9 @@
 
 ### 🛠 &nbsp;My Expertise
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode," />
-    <img src="https://skillicons.dev/icons?i=python,django,docker,javascript,vue,nodejs,npm,express,nginx,java,postgres,mysql,sqlite,mongodb,c,cpp" /><br>
-    <img src="https://skillicons.dev/icons?i=php,ps,prisma,pug,redis,stackoverflow,linkedin,ubuntu,linux,bash," /><br>
+  <img src="https://skillicons.dev/icons?i=python,django,docker,javascript,vue,nodejs,npm,express,nginx,java"/><br>
+  <img src="https://skillicons.dev/icons?i=,postgres,mysql,sqlite,mongodb,c,cpp,html,css,bootstrap,git,github,vscode,"/><br>    
+  <img src="https://skillicons.dev/icons?i=php,ps,prisma,pug,redis,stackoverflow,linkedin,ubuntu,linux,bash," /><br>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
