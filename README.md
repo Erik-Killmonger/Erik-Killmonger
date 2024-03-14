@@ -12,6 +12,11 @@
 - 👾 Currently exploring **Networking Hardware Configuration and AI**
 - ⚡ **Programing is My Passion** I love everything about it.
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
+</p>
+
 ### ✉️ &nbsp; Connect with me
 <div align="center"> 
   <a href="mailto:fasikazelalem12@gmail.com">
@@ -30,11 +35,3 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
-
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
-</p>
