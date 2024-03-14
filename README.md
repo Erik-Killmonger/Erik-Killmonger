@@ -18,7 +18,7 @@
 </p>
 
 ### ✉️ &nbsp; Connect with me
-<div align="center" style="display: inline-block;"> 
+<div align="center" style="float: left;"> 
   <a href="mailto:fasikazelalem12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
