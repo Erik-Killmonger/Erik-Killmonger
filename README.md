@@ -16,13 +16,9 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
 </p>
-<style>
-  .contact-links {
-    text-align: center;
-  }
-</style>
+
 ### ✉️ &nbsp; Connect with me
-<div align="center" class="contact-links"> 
+<div> 
   <a href="mailto:fasikazelalem12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
