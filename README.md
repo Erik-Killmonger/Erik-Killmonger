@@ -24,14 +24,14 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-
+<br/>
 ### 🛠 &nbsp;My Expertise
 <div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,vscode," />
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,java,postgresql,mysql,sqlite,mariadb,mongodb,c,c++" /><br>
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
 </p>
