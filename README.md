@@ -1,6 +1,4 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
-<div class="bg-black">
+<div style="background-color:black; color:white; padding:20px;">
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Fasika</h1>
 <h3 align="center">System Developer || Software Engineer</h3>
@@ -40,4 +38,4 @@
 <p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fasikablack&theme=dark" alt="GitHub Streak" /></a>
 </p>
-</dev>
+</div>
