@@ -1,3 +1,4 @@
+<body style="background-color:black;">
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Fasika</h1>
 <h3 align="center">System Developer || Software Engineer</h3>
